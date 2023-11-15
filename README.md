@@ -4,8 +4,7 @@
 Владею следующими:
 - PostgreSQL
 - Python(pandas, numpy, matplotlib, seaborn, scipy)
-- Redash
-- Tableau
+- Power BI
 
 
 Мой репрезиторий с проектами Яндекс-Практимум:
