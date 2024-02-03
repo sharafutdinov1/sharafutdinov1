@@ -4,4 +4,4 @@
 Владею следующими:
 - PostgreSQL
 - Python(pandas, numpy, matplotlib, seaborn, scipy)
-- Power BI
+- BI (Мetabase)
