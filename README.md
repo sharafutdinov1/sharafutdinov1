@@ -2,6 +2,6 @@
 
 #### Я активно осваиваю инструменты для анализа данных.
 Владею следующими:
-- PostgreSQL
+- PostgreSQL, MySQL
 - Python(pandas, numpy, matplotlib, seaborn, scipy)
 - BI (Мetabase)
